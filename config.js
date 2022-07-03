@@ -6,11 +6,11 @@ import fs from 'fs'
 
 global.owner = [
   ['18296942212', '👑 Mystic - Creador 👑', true],
-  ['593987101976', '🤖 Mystic - Bot 🤖', true]
+  ['', '🤖 Mystic - Bot 🤖', true]
  
 ] // Cambia los numeros que quieras
-global.mods = ['18296942212' , '593987101976' ] 
-global.prems = ['18296942212' , '593987101976'] 
+global.mods = ['18296942212' , '' ] 
+global.prems = ['18296942212' , ''] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
